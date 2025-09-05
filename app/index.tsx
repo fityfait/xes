@@ -115,7 +115,7 @@ export default function LoginScreen() {
             </TouchableOpacity>
 
             <Text style={styles.demoText}>
-              Demo Credentials: admin / admin
+              Demo Credentials: chupa lelo, cred chaiye bhadwe ko
             </Text>
           </View>
 
