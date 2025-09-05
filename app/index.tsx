@@ -115,7 +115,7 @@ export default function LoginScreen() {
             </TouchableOpacity>
 
             <Text style={styles.demoText}>
-              Demo Credentials: chupa lelo, cred chaiye bhadwe ko
+              Demo Credentials: DO DO DO DO MAX VERSTAPPEN
             </Text>
           </View>
 
