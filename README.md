@@ -1,3 +1,5 @@
-# hac
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Ashwin7790/hac)
+cd xes
+npm install
+npm install -g expo-cli
+npm install --save-dev typescript
+npx expo start
